@@ -1,3 +1,4 @@
 <div align="center"><h1>KeeAdmin Documentation</h1>
   <h2>About</h2>
+  KeeAdmin is a fast, stable, and easily customizable just to fit all of your needs. With constant updates and community feedback, you won't be disappointed. 
 </div>
